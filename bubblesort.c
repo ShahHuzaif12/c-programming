@@ -1,4 +1,4 @@
-\\bubble sort in simple way//
+//bubble sort in simple way//
 #include <stdio.h>
 void b_sort(int a[], int n);
 int main ()
